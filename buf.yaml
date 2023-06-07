@@ -1,0 +1,11 @@
+version: v1
+
+name: buf.build/protoc-extensions/protoc-gen-go-defaults
+
+breaking:
+  use:
+    - FILE
+
+lint:
+  use:
+    - DEFAULT
