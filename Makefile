@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-MODULE = go.linka.cloud/protoc-gen-defaults
+MODULE = github.com/protoc-extensions/protoc-gen-go-defaults
 
 
 PROTO_BASE_PATH = .

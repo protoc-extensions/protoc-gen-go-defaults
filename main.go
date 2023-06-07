@@ -19,7 +19,7 @@ import (
 	pgsgo "github.com/lyft/protoc-gen-star/lang/go"
 	"google.golang.org/protobuf/types/pluginpb"
 
-	"go.linka.cloud/protoc-gen-defaults/module"
+	"github.com/protoc-extensions/protoc-gen-go-defaults/module"
 )
 
 func main() {
