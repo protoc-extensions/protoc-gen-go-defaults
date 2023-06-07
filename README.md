@@ -14,5 +14,4 @@ managed:
 plugins:
   - name: gapi-lint
     out: internal/proto
-
 ```
